@@ -13,20 +13,16 @@ License Cookiecutter
         :target: https://licensecutter.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
-
-
-
 License Cookiecutter uses cookie cutter to help generate and manage license files.
-
 
 * Free software: MIT license
 * Documentation: https://licensecutter.readthedocs.io.
 
-
 Features
 --------
 
-* TODO
+* Python utilities to manage license boilerplate
+* Wrap license text in different comment formats for inclusion in many source code files.
 
 Credits
 -------
@@ -35,3 +31,4 @@ This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypack
 
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
 .. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
+.. _ChooseALicense: https://choosealicense.com/
